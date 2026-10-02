@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,000
+CI: El guardián invisible del código
+
+2
+00:00:03,000 --> 00:00:10,000
+En GitHub existe un pequeño robot llamado CI.
+
+3
+00:00:10,000 --> 00:00:18,000
+Se despierta cuando alguien hace cambios en el proyecto.
+
+4
+00:00:18,000 --> 00:00:30,000
+Revisa el código, verifica que todo funcione y evita errores antes de publicar.
+
+5
+00:00:30,000 --> 00:00:45,000
+CI significa Integración Continua, y su trabajo es proteger el proyecto.
+
